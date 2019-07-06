@@ -3,7 +3,7 @@ def find_element_index(array, value_to_find)
     if value_to_find = true
 return array.index(value_to_find)
 else 
-  return nil"
+  return nil
     end 
  end
  
